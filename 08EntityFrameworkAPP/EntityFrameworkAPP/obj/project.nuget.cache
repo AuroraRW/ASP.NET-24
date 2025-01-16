@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GhoA+9M+G2Kync47zd4g7jd1vZDi9soVUC96+8O7vYaFdkahMvrB5BObhwjclcACPY+5aXIyIZjREU71vO5G1Q==",
+  "dgSpecHash": "0iDcfv8U3OCM9yxViqOiC7szt0EwETv4flow8HdPsvX15L5QwxcA1bizBg+/3dx0Aw1oP7H9Hfa4hkJAejErLA==",
   "success": true,
-  "projectFilePath": "C:\\00code\\ASPNET\\Example\\EntityFrameworkAPP\\EntityFrameworkAPP\\EntityFrameworkAPP.csproj",
+  "projectFilePath": "C:\\00code\\ASPNET\\Example\\08EntityFrameworkAPP\\EntityFrameworkAPP\\EntityFrameworkAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\awang\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\awang\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

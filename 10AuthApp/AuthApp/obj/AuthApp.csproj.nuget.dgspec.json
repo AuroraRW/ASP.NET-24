@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\00code\\ASPNET\\Example\\AuthApp\\AuthApp\\AuthApp.csproj": {}
+    "C:\\00code\\ASPNET\\Example\\10AuthApp\\AuthApp\\AuthApp.csproj": {}
   },
   "projects": {
-    "C:\\00code\\ASPNET\\Example\\AuthApp\\AuthApp\\AuthApp.csproj": {
+    "C:\\00code\\ASPNET\\Example\\10AuthApp\\AuthApp\\AuthApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00code\\ASPNET\\Example\\AuthApp\\AuthApp\\AuthApp.csproj",
+        "projectUniqueName": "C:\\00code\\ASPNET\\Example\\10AuthApp\\AuthApp\\AuthApp.csproj",
         "projectName": "AuthApp",
-        "projectPath": "C:\\00code\\ASPNET\\Example\\AuthApp\\AuthApp\\AuthApp.csproj",
+        "projectPath": "C:\\00code\\ASPNET\\Example\\10AuthApp\\AuthApp\\AuthApp.csproj",
         "packagesPath": "C:\\Users\\awang\\.nuget\\packages\\",
-        "outputPath": "C:\\00code\\ASPNET\\Example\\AuthApp\\AuthApp\\obj\\",
+        "outputPath": "C:\\00code\\ASPNET\\Example\\10AuthApp\\AuthApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\awang\\AppData\\Roaming\\NuGet\\NuGet.Config",

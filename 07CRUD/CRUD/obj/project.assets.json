@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\00code\\ASPNET\\Example\\CRUD\\CRUD\\CRUD.csproj",
+      "projectUniqueName": "C:\\00code\\ASPNET\\Example\\07CRUD\\CRUD\\CRUD.csproj",
       "projectName": "CRUD",
-      "projectPath": "C:\\00code\\ASPNET\\Example\\CRUD\\CRUD\\CRUD.csproj",
+      "projectPath": "C:\\00code\\ASPNET\\Example\\07CRUD\\CRUD\\CRUD.csproj",
       "packagesPath": "C:\\Users\\awang\\.nuget\\packages\\",
-      "outputPath": "C:\\00code\\ASPNET\\Example\\CRUD\\CRUD\\obj\\",
+      "outputPath": "C:\\00code\\ASPNET\\Example\\07CRUD\\CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\awang\\AppData\\Roaming\\NuGet\\NuGet.Config",

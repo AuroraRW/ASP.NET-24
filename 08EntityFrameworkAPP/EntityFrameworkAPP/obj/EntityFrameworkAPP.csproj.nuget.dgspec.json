@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\00code\\ASPNET\\Example\\EntityFrameworkAPP\\EntityFrameworkAPP\\EntityFrameworkAPP.csproj": {}
+    "C:\\00code\\ASPNET\\Example\\08EntityFrameworkAPP\\EntityFrameworkAPP\\EntityFrameworkAPP.csproj": {}
   },
   "projects": {
-    "C:\\00code\\ASPNET\\Example\\EntityFrameworkAPP\\EntityFrameworkAPP\\EntityFrameworkAPP.csproj": {
+    "C:\\00code\\ASPNET\\Example\\08EntityFrameworkAPP\\EntityFrameworkAPP\\EntityFrameworkAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00code\\ASPNET\\Example\\EntityFrameworkAPP\\EntityFrameworkAPP\\EntityFrameworkAPP.csproj",
+        "projectUniqueName": "C:\\00code\\ASPNET\\Example\\08EntityFrameworkAPP\\EntityFrameworkAPP\\EntityFrameworkAPP.csproj",
         "projectName": "EntityFrameworkAPP",
-        "projectPath": "C:\\00code\\ASPNET\\Example\\EntityFrameworkAPP\\EntityFrameworkAPP\\EntityFrameworkAPP.csproj",
+        "projectPath": "C:\\00code\\ASPNET\\Example\\08EntityFrameworkAPP\\EntityFrameworkAPP\\EntityFrameworkAPP.csproj",
         "packagesPath": "C:\\Users\\awang\\.nuget\\packages\\",
-        "outputPath": "C:\\00code\\ASPNET\\Example\\EntityFrameworkAPP\\EntityFrameworkAPP\\obj\\",
+        "outputPath": "C:\\00code\\ASPNET\\Example\\08EntityFrameworkAPP\\EntityFrameworkAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\awang\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\00code\\ASPNET\\Example\\SchoolApp\\SchoolApp\\SchoolApp.csproj": {}
+    "C:\\00code\\ASPNET\\Example\\09SchoolApp\\SchoolApp\\SchoolApp.csproj": {}
   },
   "projects": {
-    "C:\\00code\\ASPNET\\Example\\SchoolApp\\SchoolApp\\SchoolApp.csproj": {
+    "C:\\00code\\ASPNET\\Example\\09SchoolApp\\SchoolApp\\SchoolApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00code\\ASPNET\\Example\\SchoolApp\\SchoolApp\\SchoolApp.csproj",
+        "projectUniqueName": "C:\\00code\\ASPNET\\Example\\09SchoolApp\\SchoolApp\\SchoolApp.csproj",
         "projectName": "SchoolApp",
-        "projectPath": "C:\\00code\\ASPNET\\Example\\SchoolApp\\SchoolApp\\SchoolApp.csproj",
+        "projectPath": "C:\\00code\\ASPNET\\Example\\09SchoolApp\\SchoolApp\\SchoolApp.csproj",
         "packagesPath": "C:\\Users\\awang\\.nuget\\packages\\",
-        "outputPath": "C:\\00code\\ASPNET\\Example\\SchoolApp\\SchoolApp\\obj\\",
+        "outputPath": "C:\\00code\\ASPNET\\Example\\09SchoolApp\\SchoolApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\awang\\AppData\\Roaming\\NuGet\\NuGet.Config",
