@@ -10,4 +10,3 @@
 ### 8: Entity Framework (Connecting database)
 ### 9: Relationship between tables (SchoolApp)
 ### 10: Identity (AuthApp)
-
